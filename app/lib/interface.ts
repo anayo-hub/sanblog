@@ -1,6 +1,6 @@
 export interface simpleBlogCard {
   title: string;
-  smallDescription: string;
+  smalldescription: string;
   currentSlug: string;
   titleImage: any;
 }
